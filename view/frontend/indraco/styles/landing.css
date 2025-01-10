@@ -1,0 +1,50 @@
+#home-banner .carousel-item::before {
+   content: '';
+   background-image: linear-gradient(to bottom, rgba(0,0,0,.25), rgba(0,0,0,0));
+   position: absolute;
+   left: 0;
+   top: 0;
+   right: 0;
+   bottom: 0;
+
+}
+#home-banner .carousel-caption {
+   padding: 2rem 15%;
+   background-color: rgba(0, 0, 0, .5);
+   bottom: unset;
+}
+
+
+#customer-trust-card {
+   position: relative;
+   padding: 1.5rem 1.5rem 1.5rem 0;
+}
+#customer-trust-card::before {
+   content: '';
+   height: 100%;
+   width: auto;
+   background-color: var(--bg-whitesmoke);
+   aspect-ratio: 1/1;
+   position: absolute;
+   top: 0;
+   right: 0;
+   border-radius: var(--bs-border-radius-xl);
+   z-index: -1;
+}
+
+.contact-list a {
+   color: inherit;
+   opacity: .75;
+}
+.contact-list a:hover {
+   opacity: 1;
+}
+@media (min-width: 1200px) {
+   .contact-item .card {
+      transform: scale(.875);
+      transition: all .36s ease-in-out;
+   }
+   .contact-item .card:hover {
+      transform: scale(1);
+   }
+}

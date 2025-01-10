@@ -11,9 +11,19 @@
    font-size: small;
 }
 
+.text-justify {
+   text-align: justify;
+   hyphens: auto;
+   -moz-hyphens: auto;
+}
+
 h1,h2,h3,h4,h5,h6 {
    font-size: inherit;
    line-height: inherit;
+}
+
+h1,h2,h3,h4,h5,h6, p, address {
+   margin-bottom: 0;
 }
 
 ul {
@@ -27,7 +37,11 @@ a {
 input::placeholder, textarea::placeholder, .form-control::placeholder {
    color: inherit;
    opacity: .5;
-} 
+}
+
+.btn {
+   font-size: inherit;
+}
 
 .page-wrapper {
    display: flex;
@@ -45,6 +59,12 @@ input::placeholder, textarea::placeholder, .form-control::placeholder {
 }
 @media (min-width: 576px) {
    .page-wrapper .container {
+      width: 90%;
+      max-width: 1320px;
+   }
+}
+@media (min-width: 992px) {
+   .page-wrapper .container-lg {
       width: 90%;
       max-width: 1320px;
    }
