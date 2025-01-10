@@ -1,0 +1,58 @@
+@font-face {
+    font-family: 'Gotham';
+    src: url(gotham-book-webfont.woff);
+    font-weight: 400;
+    font-style: normal;
+}
+.fw-normal {
+    font-family: 'Gotham';
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: 'Gotham Medium';
+    src: url(gotham-medium-webfont.woff);
+    font-weight: 500;
+    font-style: normal;
+}
+.fw-medium {
+    font-family: 'Gotham Medium';
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: 'Gotham Bold';
+    src: url(gotham-bold-webfont.woff);
+    font-weight: 700;
+    font-style: normal;
+}
+.fw-bold {
+    font-family: 'Gotham Bold';
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: 'Gotham Thin';
+    src: url(gotham-thin-webfont.woff);
+    font-weight: 100;
+    font-style: normal;
+}
+.fw-thin {
+    font-family: 'Gotham Thin';
+    font-weight: 100;
+}
+
+@font-face {
+    font-family: 'TheSecret Regular';
+    src: url(TheSecret-Regular.woff);
+    font-weight: 400;
+    font-style: normal;
+}
+.text-secret {
+    font-family: 'TheSecret Regular';
+    font-weight: 400;
+}
+
+body {
+    font-family: 'Gotham';
+}

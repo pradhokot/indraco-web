@@ -1,0 +1,7 @@
+product category : coffee/machines/drink.. etc.
+product brand : supresso/ kraton/ tugu buaya.. etc
+product collection : single origin/world blend.. etc.
+product variant : sumatra mandheling/ toraja kalosi.. etc.
+product form : beans/ground/drip.. etc.
+product weight (gramatur) : 200g/ 1000g.. etc.
+product price : normal/ reguler/ discount
