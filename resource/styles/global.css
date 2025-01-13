@@ -17,12 +17,24 @@
    -moz-hyphens: auto;
 }
 
-h1,h2,h3,h4,h5,h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
    font-size: inherit;
    line-height: inherit;
 }
 
-h1,h2,h3,h4,h5,h6, p, address {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+address {
    margin-bottom: 0;
 }
 
@@ -34,7 +46,9 @@ a {
    text-decoration: none;
 }
 
-input::placeholder, textarea::placeholder, .form-control::placeholder {
+input::placeholder,
+textarea::placeholder,
+.form-control::placeholder {
    color: inherit;
    opacity: .5;
 }
@@ -48,21 +62,28 @@ input::placeholder, textarea::placeholder, .form-control::placeholder {
    flex-direction: column;
    min-height: 100vh;
 }
-.page-header, .page-footer {
+
+.page-header,
+.page-footer {
    flex-grow: 0;
 }
+
 .page-content {
    flex-grow: 1;
+   overflow: hidden;
 }
+
 .page-section {
    padding: calc(3rem+1vw) 0;
 }
+
 @media (min-width: 576px) {
    .page-wrapper .container {
       width: 90%;
       max-width: 1320px;
    }
 }
+
 @media (min-width: 992px) {
    .page-wrapper .container-lg {
       width: 90%;

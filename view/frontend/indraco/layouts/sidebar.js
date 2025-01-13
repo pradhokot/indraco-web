@@ -4,7 +4,7 @@ document.write(`
          <h5 class="offcanvas-title" id="sidebarLabel">Offcanvas</h5>
          <button type="button" class="btn-close" data-bs-toggle="offcanvas" data-bs-target="#sidebar"></button>
       </div>
-      <div class="offcanvas-body container-lg">
+      <div class="offcanvas-body container-lg justify-content-lg-between">
          <ul class="nav flex-column flex-lg-row">
             <li class="nav-item">
                <a href="about.html" class="nav-link text-capitalize">tentang kami</a>
@@ -15,11 +15,11 @@ document.write(`
             </li>
             <li class="nav-item py-2 d-none d-lg-block"><div class="vr h-100"></div></li>
             <li class="nav-item">
-               <a href="#" class="nav-link text-capitalize">bisnis</a>
+               <a href="businesses.html" class="nav-link text-capitalize">bisnis</a>
             </li>
             <li class="nav-item py-2 d-none d-lg-block"><div class="vr h-100"></div></li>
             <li class="nav-item">
-               <a href="#" class="nav-link text-capitalize">official store</a>
+               <a href="olshop.html" class="nav-link text-capitalize">official store</a>
             </li>
             <li class="nav-item py-2 d-none d-lg-block"><div class="vr h-100"></div></li>
             <li class="nav-item">
@@ -39,6 +39,9 @@ document.write(`
             </li>
             <li class="nav-item py-2 d-none d-lg-block"><div class="vr h-100"></div></li>
          </ul>
+         <div>
+            <button class="btn"><i class="fas fa-search"></i></button>
+         </div>
       </div>
    </div>
    `)
