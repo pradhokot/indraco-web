@@ -1,5 +1,13 @@
+body {
+   color: #525252;
+}
+
 .page-header {
    background-color: rgba(var(--bs-white-rgb), 1);
+}
+
+.page-header li:last-of-type>.vr {
+   display: none;
 }
 
 .navbar-brand img {

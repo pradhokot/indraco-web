@@ -1,3 +1,9 @@
+@media (min-width: 992px) {
+   .overflow-images {
+      width: calc(100% + 10vw);
+   }
+}
+
 .tree-item header,
 .tree-item main {
    position: relative;

@@ -23,7 +23,7 @@ document.write(`
             </li>
             <li class="nav-item py-2 d-none d-lg-block"><div class="vr h-100"></div></li>
             <li class="nav-item">
-               <a href="#" class="nav-link text-capitalize">berita & acara</a>
+               <a href="news.html" class="nav-link text-capitalize">berita & acara</a>
             </li>
             <li class="nav-item py-2 d-none d-lg-block"><div class="vr h-100"></div></li>
             <li class="nav-item">
@@ -35,7 +35,7 @@ document.write(`
             </li>
             <li class="nav-item py-2 d-none d-lg-block"><div class="vr h-100"></div></li>
             <li class="nav-item">
-            <a href="#" class="nav-link text-capitalize">kontak</a>
+            <a href="contact.html" class="nav-link text-capitalize">kontak</a>
             </li>
             <li class="nav-item py-2 d-none d-lg-block"><div class="vr h-100"></div></li>
          </ul>

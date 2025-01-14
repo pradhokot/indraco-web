@@ -55,7 +55,7 @@ document.write(`
          <div class="row align-items-baseline">
             <div class="col col-12 col-xl-auto order-xl-2">
             
-               <p class="text-xl-end opacity-75 mb-3">
+               <p class="text-xl-end mb-3">
                   Hak cipta &copy; 2021 - <script src="../../../../resource/scripts/year.js"></script> INDRACO. Seluruh hak dilindungi undang-undang.
                </p>
 
