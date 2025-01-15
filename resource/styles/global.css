@@ -17,6 +17,10 @@
    -moz-hyphens: auto;
 }
 
+.text-last-center {
+   text-align-last: center;
+}
+
 h1,
 h2,
 h3,
@@ -89,4 +93,8 @@ textarea::placeholder,
       width: 90%;
       max-width: 1320px;
    }
+}
+
+.accordion-button:not(.collapsed) {
+   color: inherit;
 }

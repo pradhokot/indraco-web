@@ -3,7 +3,7 @@ document.write(`
       <div class="container">
          <h1 class="ms-0 my-0 me-auto">
             <a class="navbar-brand d-flex" href="index.html">
-               <img src="../../../../resource/assets/img/indraco/logo-indraco.png" width="100%" height="auto" alt="">
+               <img src="../../../../../../../resource/assets/img/indraco/logo-indraco.png" width="100%" height="auto" alt="">
             </a>
          </h1>
          <button class="navbar-toggler rounded-0 border-0" type="button">
@@ -20,13 +20,13 @@ document.write(`
                <li class="nav-item py-2"><div class="vr h-100"></div></li>
                <li class="nav-item">
                   <a class="nav-link" href="#">
-                     <img src="../../../../resource/assets/img/indraco/flag/eng.png" width="auto" height="16" alt=""> English
+                     <img src="../../../../../../../resource/assets/img/indraco/flag/eng.png" width="auto" height="16" alt=""> English
                   </a>
                </li>
                <li class="nav-item py-2"><div class="vr h-100"></div></li>
                <li class="nav-item">
                   <a class="nav-link" href="#">
-                     <img src="../../../../resource/assets/img/indraco/flag/ina.png" width="auto" height="16" alt=""> Bahasa
+                     <img src="../../../../../../../resource/assets/img/indraco/flag/ina.png" width="auto" height="16" alt=""> Bahasa
                   </a>
                </li>
                <li class="nav-item py-2"><div class="vr h-100"></div></li>
