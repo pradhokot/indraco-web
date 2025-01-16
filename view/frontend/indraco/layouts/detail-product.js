@@ -1,7 +1,7 @@
 document.write(`
    <div class="product-detail">
       <h5 class="text-capitalize fs-1 lh-sm">Exotic Blend Coffee Beans</h5>
-      <img src="../../../../../../resource/assets/img/products/sumatra-mandheling-coffee-beans.png" class="d-block w-100" alt="...">
+      <img src="../../../../resource/assets/img/products/sumatra-mandheling-coffee-beans.png" class="d-block w-100" alt="...">
       <hr class="m-0 opacity-100">
       <div class="row row-cols-3 g-3">
          <div class="col">
@@ -62,11 +62,11 @@ document.write(`
                         <div class="row g-0">
                            <div class="col">
                               <h5 class="opacity-75 mb-2"><small>Tingkat Keasaman :</small></h5>
-                              <p><span class="me-3">Low Acidity</span> <img src="../../../../../../resource/assets/img/level/level_3-5.svg" class="img-fluid" alt=""></p>
+                              <p><span class="me-3">Low Acidity</span> <img src="../../../../resource/assets/img/level/level_3-5.svg" class="img-fluid" alt=""></p>
                            </div><!-- end col -->
                            <div class="col">
                               <h5 class="opacity-75 mb-2"><small>Tingkat Kekentalan :</small></h5>
-                              <p><span class="me-3">Heavy Body</span> <img src="../../../../../../resource/assets/img/level/level_3-5.svg" class="img-fluid" alt=""></p>
+                              <p><span class="me-3">Heavy Body</span> <img src="../../../../resource/assets/img/level/level_3-5.svg" class="img-fluid" alt=""></p>
                            </div><!-- end col -->
                         </div><!-- end row -->
                      </li>

@@ -5,7 +5,7 @@ document.write(`
             <div class="col col-12 col-lg-auto order-lg-1">
 
                <h1 class="text-uppercase mb-3">
-                  <img src="../../../../../../../resource/assets/img/indraco/logo-indraco-dark.png" width="100%" height="auto" style="max-width: 15.4rem;" alt="">
+                  <img src="../../../../resource/assets/img/indraco/logo-indraco-dark.png" width="100%" height="auto" style="max-width: 15.4rem;" alt="">
                   <br>
                   <small class="fs-small text-capitalize">Roasting fine exquisite coffee since 1971</small>
                </h1>

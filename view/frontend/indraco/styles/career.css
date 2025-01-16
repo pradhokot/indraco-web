@@ -1,0 +1,5 @@
+@media (min-width: 992px) {
+   .vacancy-item .btn-collapse-toggle {
+      pointer-events: none;
+   }
+}

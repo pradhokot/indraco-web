@@ -31,7 +31,7 @@ document.write(`
             </li>
             <li class="nav-item py-2 d-none d-lg-block"><div class="vr h-100"></div></li>
             <li class="nav-item">
-               <a href="#" class="nav-link text-capitalize">karir</a>
+               <a href="career.html" class="nav-link text-capitalize">karir</a>
             </li>
             <li class="nav-item py-2 d-none d-lg-block"><div class="vr h-100"></div></li>
             <li class="nav-item">
