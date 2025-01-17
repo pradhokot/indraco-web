@@ -64,6 +64,11 @@ body {
    width: 90px;
 }
 
+.form-check-input:checked {
+   background-color: #525252;
+   border-color: #525252;
+}
+
 
 @media (max-width: 575.98px) {
    #footbar {

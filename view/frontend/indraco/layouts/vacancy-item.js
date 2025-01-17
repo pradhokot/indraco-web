@@ -34,7 +34,7 @@ document.write(`
       </div><!-- end col -->
       <div class="col col-12 col-md-auto order-md-2">
          <div class="collapse d-md-block" id="collapse-vacancy1">
-            <a href="#" class="btn btn-outline-dark rounded-0 w-100 px-5">
+            <a href="career-identity.html" class="btn btn-outline-dark rounded-0 w-100 px-5">
                Lamar
             </a>
          </div>

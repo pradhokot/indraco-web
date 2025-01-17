@@ -4,7 +4,7 @@
 }
 
 .bg-whitesmoke {
-   background-color: var(--bg-whitesmoke);
+   background-color: var(--bg-whitesmoke) !important;
 }
 
 .fs-small {
@@ -97,4 +97,13 @@ textarea::placeholder,
 
 .accordion-button:not(.collapsed) {
    color: inherit;
+}
+
+.form-check-input,
+.form-check-label {
+   cursor: pointer;
+}
+
+.form-check-input:checked[type="radio"] {
+   --bs-form-check-bg-image: url() !important;
 }
