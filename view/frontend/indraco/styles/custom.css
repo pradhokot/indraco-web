@@ -2,28 +2,6 @@ body {
    color: #525252;
 }
 
-.page-header {
-   background-color: rgba(var(--bs-white-rgb), 1);
-}
-
-.page-header li:last-of-type>.vr {
-   display: none;
-}
-
-.navbar-brand img {
-   width: 8rem;
-}
-
-@media (min-width: 992px) {
-   .navbar-brand img {
-      width: 12rem;
-   }
-}
-
-#sidebar a {
-   color: inherit;
-}
-
 @media (min-width: 1400px) {
    .page-content {
       font-size: 1.125em;

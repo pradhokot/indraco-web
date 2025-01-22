@@ -7,3 +7,8 @@
 .title-page {
    font-size: 1.75em;
 }
+
+.sosmed-list .input-group-text {
+   width: 3rem;
+   justify-content: center;
+}

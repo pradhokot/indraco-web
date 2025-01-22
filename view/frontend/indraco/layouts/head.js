@@ -7,6 +7,7 @@ document.write(`
    <link rel="stylesheet" href="../../../../resource/assets/fonts/HelveticaNeue/HelveticaNeue.css">
    <link rel="stylesheet" href="../../../../resource/styles/global.css">
    <link rel="stylesheet" href="../styles/custom.css">
+   <link rel="stylesheet" href="../styles/navbar.css">
    <script src="../../../../resource/vendors/jquery-3.7.1.min.js.js"></script>
    <script src="../../../../resource/vendors/bootstrap-5.3.3-dist/js/bootstrap.bundle.min.js"></script>
    `)

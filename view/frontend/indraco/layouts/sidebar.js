@@ -10,8 +10,18 @@ document.write(`
                <a href="about.html" class="nav-link text-capitalize">tentang kami</a>
             </li>
             <li class="nav-item py-2 d-none d-lg-block"><div class="vr h-100"></div></li>
-            <li class="nav-item">
-               <a href="product.html" class="nav-link text-capitalize">produk</a>
+            <li class="nav-item dropdown">
+               <a href="product.html" class="nav-link text-capitalize" data-bs-toggle="dropdown" data-bs-target="#dropdown-product">produk</a>
+               <ul class="dropdown-menu container-lg position-relative" id="dropdown-product">
+                  <li><a href="#" class="dropdown-item">produk</a></li>
+                  <li><a href="#" class="dropdown-item">produk</a></li>
+                  <li><a href="#" class="dropdown-item">produk</a></li>
+                  <li><a href="#" class="dropdown-item">produk</a></li>
+                  <li><a href="#" class="dropdown-item">produk</a></li>
+                  <li><a href="#" class="dropdown-item">produk</a></li>
+                  <li><a href="#" class="dropdown-item">produk</a></li>
+                  <li><a href="#" class="dropdown-item">produk</a></li>
+               </ul>
             </li>
             <li class="nav-item py-2 d-none d-lg-block"><div class="vr h-100"></div></li>
             <li class="nav-item">

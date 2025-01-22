@@ -30,11 +30,11 @@ document.write(`
       <div class="accordion accordion-flush" id="accordion-product">
          <div class="accordion-item border-dark">
             <h5 class="accordion-header">
-               <button class="accordion-button fs-4 px-0 bg-transparent shadow-none text-center" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-product-ingredients">
+               <button class="accordion-button fs-4 px-0 bg-transparent shadow-none text-center collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-product-ingredients">
                   <b class="fw-medium">Bahan-bahan</b>
                </button>
             </h5>
-            <div id="collapse-product-ingredients" class="accordion-collapse collapse show">
+            <div id="collapse-product-ingredients" class="accordion-collapse collapse">
                <div class="accordion-body px-0">
                   <p>20% Kopi Arabica & 80% Robusta</p>
                </div>
