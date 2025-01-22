@@ -2,12 +2,12 @@
    background-color: rgba(var(--bs-white-rgb), 1);
 }
 
-.page-header li.nav-item.py-2:last-of-type {
+.page-header li.nav-item.nav-devider:last-of-type {
    display: none;
 }
 
 @media (max-width: 991.98px) {
-   .page-header li.nav-item.py-2 {
+   .page-header li.nav-item.nav-devider {
       display: none;
    }
 }
