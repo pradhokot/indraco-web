@@ -51,3 +51,11 @@
       right: 0;
    }
 }
+
+@media (min-width: 992px) {
+   #sidenav .offcanvas-body.container-lg {
+      --bs-gutter-x: 1.5rem;
+      padding-right: calc(var(--bs-gutter-x) * .5);
+      padding-left: calc(var(--bs-gutter-x) * .5);
+   }
+}
