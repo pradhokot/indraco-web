@@ -2,6 +2,15 @@ body {
    color: #525252;
 }
 
+.page-content {
+   padding-top: 70px;
+}
+@media (min-width: 992px) {
+   .page-content {
+      padding-top: 126.1px;
+   }
+}
+
 @media (min-width: 1400px) {
    .page-content {
       font-size: 1.125em;

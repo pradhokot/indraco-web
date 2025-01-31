@@ -6,3 +6,7 @@ document.querySelectorAll('.nav-pills .nav-link').forEach(function(everyitem){
 	});
 	
 });
+
+// $(document).ready(function() {
+// 	$('.page-content').css('padding-top', ($('.page-header').height()));
+// });

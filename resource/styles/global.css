@@ -1,6 +1,12 @@
 :root {
    --bg-whitesmoke: #f5f5f5;
    --bg-whitesmoke-rgb: 245, 245, 245;
+   --bs-primary: #fd4f00;
+   --bs-primary-rgb: 253, 79, 0;
+}
+
+body {
+   color: #525252;
 }
 
 .bg-whitesmoke {
@@ -78,7 +84,8 @@ textarea::placeholder,
 }
 
 .page-section {
-   padding: calc(3rem+1vw) 0;
+   padding-top: calc(3rem + 1vw);
+   padding-bottom: calc(3rem + 1vw);
 }
 
 @media (min-width: 576px) {
@@ -105,5 +112,6 @@ textarea::placeholder,
 }
 
 .form-check-input:checked[type="radio"] {
+
    --bs-form-check-bg-image: url() !important;
 }

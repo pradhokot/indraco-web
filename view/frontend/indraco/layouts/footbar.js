@@ -51,7 +51,7 @@ document.write(`
          </div><!-- end row -->
       </div><!-- end container -->
       <hr>
-      <div class="container pb-4">
+      <div class="container pb-4 text-center text-lg-start">
          <div class="row align-items-baseline">
             <div class="col col-12 col-xl-auto order-xl-2">
             
@@ -63,7 +63,7 @@ document.write(`
             <div class="col col-12 col-xl order-xl-1">
             
                <nav style="--bs-breadcrumb-divider: '|';" aria-label="breadcrumb">
-                  <ol class="breadcrumb text-capitalize" id="nav-privacy">
+                  <ol class="breadcrumb text-capitalize justify-content-center justify-content-lg-start" id="nav-privacy">
                      <li class="breadcrumb-item"><a href="#">kebijakan privasi</a></li>
                      <li class="breadcrumb-item"><a href="#">syarat & ketentuan</a></li>
                      <li class="breadcrumb-item"><a href="#">informasi kemanan data</a></li>

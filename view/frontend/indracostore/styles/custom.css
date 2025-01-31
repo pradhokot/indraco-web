@@ -1,0 +1,20 @@
+.navbar-brand img {
+   max-width: 12rem;
+}
+@media (min-width: 992px) {
+   .navbar-brand img {
+      max-width: 16rem;
+   }
+}
+
+#menubar .nav-divider:last-of-type {
+   display: none;
+}
+
+.footbar a {
+   color: inherit;
+}
+.footbar .breadcrumb-item + .breadcrumb-item::before {
+   color: inherit;
+   opacity: .5;
+}

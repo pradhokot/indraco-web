@@ -1,0 +1,12 @@
+#home-banner .carousel-item .ratio {
+   aspect-ratio: 1/1;
+}
+@media (min-width: 992px) {
+   #home-banner .carousel-item .ratio {
+      aspect-ratio: 3/1;
+   }
+}
+
+#home-banner .carousel-indicators>button {
+   height: .5rem;
+}
