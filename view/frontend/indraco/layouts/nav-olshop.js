@@ -9,10 +9,14 @@ document.write(`
                <li class="nav-item w-auto">
                   <ul class="navbar-nav nav-pills flex-column row-gap-3" role="tablist">
                      <li class="nav-item">
-                        <a data-bs-toggle="pill" href="#v-pills-ecommerce" class="nav-link text-nowrap rounded-0 bg-transparent p-0 active">E-Commerce</a>
+                        <a href="olshop.html#olshop-ecomm">
+                           <span data-bs-toggle="pill" data-bs-target="#v-pills-ecommerce" class="nav-link text-nowrap rounded-0 bg-transparent p-0 active">E-Commerce</span>
+                        </a>
                      </li>
                      <li class="nav-item">
-                        <a data-bs-toggle="pill" href="#v-pills-marketplace" class="nav-link text-nowrap rounded-0 bg-transparent p-0">Marketplacce</a>
+                        <a href="olshop.html#olshop-marketplace">
+                           <span data-bs-toggle="pill" data-bs-target="#v-pills-marketplace" class="nav-link text-nowrap rounded-0 bg-transparent p-0">Marketplacce</span>
+                        </a>
                      </li>
                   </ul>
                </li>
@@ -24,10 +28,14 @@ document.write(`
                            <li class="nav-item w-auto">
                               <ul class="navbar-nav nav-pills flex-column row-gap-3" role="tablist">
                                  <li class="nav-item">
-                                    <a data-bs-toggle="pill" href="#v-pills-ecommerce-supresso" class="nav-link text-nowrap rounded-0 bg-transparent p-0 active">Supresso</a>
+                                    <a href="https://www.supresso.co.id/" target="_blank">
+                                       <span data-bs-toggle="pill" data-bs-target="#v-pills-ecommerce-supresso" class="nav-link text-nowrap rounded-0 bg-transparent p-0 active">Supresso</span>
+                                    </a>
                                  </li>
                                  <li class="nav-item">
-                                    <a data-bs-toggle="pill" href="#v-pills-ecommerce-indracostore" class="nav-link text-nowrap rounded-0 bg-transparent p-0">Indracostore</a>
+                                    <a href="https://www.indracostore.com/" target="_blank">
+                                       <span data-bs-toggle="pill" href="#v-pills-ecommerce-indracostore" class="nav-link text-nowrap rounded-0 bg-transparent p-0">Indracostore</span>
+                                    </a>
                                  </li>
                               </ul>
                            </li>
@@ -49,19 +57,29 @@ document.write(`
                            <li class="nav-item w-auto">
                               <ul class="navbar-nav nav-pills flex-column row-gap-3" role="tablist">
                                  <li class="nav-item">
-                                    <a data-bs-toggle="pill" href="#v-pills-marketplace-tokopedia" class="nav-link text-nowrap rounded-0 bg-transparent p-0 active">tokopedia</a>
+                                    <a href="https://www.tokopedia.com/indracoofficial" target="_blank">
+                                       <span data-bs-toggle="pill" data-bs-target="#v-pills-marketplace-tokopedia" class="nav-link text-nowrap rounded-0 bg-transparent p-0 active">tokopedia</span>
+                                    </a>
                                  </li>
                                  <li class="nav-item">
-                                    <a data-bs-toggle="pill" href="#v-pills-marketplace-shopee" class="nav-link text-nowrap rounded-0 bg-transparent p-0">shopee</a>
+                                    <a href="https://shopee.co.id/indracoofficial" target="_blank">
+                                       <span data-bs-toggle="pill" data-bs-target="#v-pills-marketplace-shopee" class="nav-link text-nowrap rounded-0 bg-transparent p-0">shopee</span>
+                                    </a>
                                  </li>
                                  <li class="nav-item">
-                                    <a data-bs-toggle="pill" href="#v-pills-marketplace-lazada" class="nav-link text-nowrap rounded-0 bg-transparent p-0">lazada</a>
+                                    <a href="https://www.lazada.co.id/shop/indraco/" target="_blank">
+                                       <span data-bs-toggle="pill" data-bs-target="#v-pills-marketplace-lazada" class="nav-link text-nowrap rounded-0 bg-transparent p-0">lazada</span>
+                                    </a>
                                  </li>
                                  <li class="nav-item">
-                                    <a data-bs-toggle="pill" href="#v-pills-marketplace-blibli" class="nav-link text-nowrap rounded-0 bg-transparent p-0">blibli</a>
+                                    <a href="https://www.blibli.com/merchant/indraco-official-store/INT-60044" target="_blank">
+                                       <span data-bs-toggle="pill" data-bs-target="#v-pills-marketplace-blibli" class="nav-link text-nowrap rounded-0 bg-transparent p-0">blibli</span>
+                                    </a>
                                  </li>
                                  <li class="nav-item">
-                                    <a data-bs-toggle="pill" href="#v-pills-marketplace-tiktokshop" class="nav-link text-nowrap rounded-0 bg-transparent p-0">tiktokshop</a>
+                                    <a href="https://www.tiktok.com/@indracostore?_t=8bOVDhWhto1&_r=1" target="_blank">
+                                       <span data-bs-toggle="pill" data-bs-target="#v-pills-marketplace-tiktokshop" class="nav-link text-nowrap rounded-0 bg-transparent p-0">tiktokshop</span>
+                                    </a>
                                  </li>
                               </ul>
                            </li>

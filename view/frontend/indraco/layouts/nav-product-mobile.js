@@ -35,10 +35,10 @@ document.write(`
                </div>
             </li>
             <li class="nav-item">
-               <a href="#" class="nav-link text-nowrap">foodservice</a>
+               <a href="foodservice.html" class="nav-link text-nowrap">foodservice</a>
             </li>
             <li class="nav-item">
-               <a href="#" class="nav-link text-nowrap">mesin-mesin & peralatan khusus</a>
+               <a href="machines.html" class="nav-link text-nowrap">mesin-mesin & peralatan khusus</a>
             </li>
          </ul>
       </div>

@@ -8,7 +8,7 @@ document.write(`
          </div>
          <div>
             <h1 class="m-0">
-               <a href="index.html" class="navbar-brand m-0">
+               <a href="index.html" class="navbar-brand m-0 d-grid">
                   <img src="../../../../resource/assets/img/indraco/logo-indraco.png" width="100%" height="auto" alt="">
                </a>
             </h1>

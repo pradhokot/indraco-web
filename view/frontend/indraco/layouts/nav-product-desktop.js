@@ -18,12 +18,12 @@ document.write(`
                            </a>
                         </li>
                         <li class="nav-item">
-                           <a href="#">
+                           <a href="foodservice.html">
                               <span data-bs-toggle="pill" data-bs-target="#v-pills-product-foodservice" class="nav-link text-nowrap rounded-0 bg-transparent p-0">foodservice</span>
                            </a>
                         </li>
                         <li class="nav-item">
-                           <a href="#">
+                           <a href="machines.html">
                               <span data-bs-toggle="pill" data-bs-target="#v-pills-product-machines" class="nav-link text-nowrap rounded-0 bg-transparent p-0">mesin-mesin & peralatan khusus</span>
                            </a>
                         </li>
@@ -94,17 +94,17 @@ document.write(`
                                        </p>
                                        <div class="row row-cols-3 gx-4 menu-img">
                                           <div class="col">
-                                             <div class="ratio ratio-1x1 bg-whitesmoke rounded-3 overflow-hidden">
+                                             <div class="ratio ratio-1x1 bg-dark rounded-3 overflow-hidden ratio-img">
                                                 <!-- <img src=".." class="object-fit-contain" alt=""> -->
                                              </div>
                                           </div><!-- end col -->
                                           <div class="col">
-                                             <div class="ratio ratio-1x1 bg-whitesmoke rounded-3 overflow-hidden">
+                                             <div class="ratio ratio-1x1 bg-dark rounded-3 overflow-hidden ratio-img">
                                                 <!-- <img src=".." class="object-fit-contain" alt=""> -->
                                              </div>
                                           </div><!-- end col -->
                                           <div class="col">
-                                             <div class="ratio ratio-1x1 bg-whitesmoke rounded-3 overflow-hidden">
+                                             <div class="ratio ratio-1x1 bg-dark rounded-3 overflow-hidden ratio-img">
                                                 <!-- <img src=".." class="object-fit-contain" alt=""> -->
                                              </div>
                                           </div><!-- end col -->
@@ -119,17 +119,17 @@ document.write(`
                                        </p>
                                        <div class="row row-cols-3 gx-4 menu-img">
                                           <div class="col">
-                                             <div class="ratio ratio-1x1 bg-whitesmoke rounded-3 overflow-hidden">
+                                             <div class="ratio ratio-1x1 bg-dark rounded-3 overflow-hidden ratio-img">
                                                 <!-- <img src=".." class="object-fit-contain" alt=""> -->
                                              </div>
                                           </div><!-- end col -->
                                           <div class="col">
-                                             <div class="ratio ratio-1x1 bg-whitesmoke rounded-3 overflow-hidden">
+                                             <div class="ratio ratio-1x1 bg-dark rounded-3 overflow-hidden ratio-img">
                                                 <!-- <img src=".." class="object-fit-contain" alt=""> -->
                                              </div>
                                           </div><!-- end col -->
                                           <div class="col">
-                                             <div class="ratio ratio-1x1 bg-whitesmoke rounded-3 overflow-hidden">
+                                             <div class="ratio ratio-1x1 bg-dark rounded-3 overflow-hidden ratio-img">
                                                 <!-- <img src=".." class="object-fit-contain" alt=""> -->
                                              </div>
                                           </div><!-- end col -->
@@ -144,17 +144,17 @@ document.write(`
                                        </p>
                                        <div class="row row-cols-3 gx-4 menu-img">
                                           <div class="col">
-                                             <div class="ratio ratio-1x1 bg-whitesmoke rounded-3 overflow-hidden">
+                                             <div class="ratio ratio-1x1 bg-dark rounded-3 overflow-hidden ratio-img">
                                                 <!-- <img src=".." class="object-fit-contain" alt=""> -->
                                              </div>
                                           </div><!-- end col -->
                                           <div class="col">
-                                             <div class="ratio ratio-1x1 bg-whitesmoke rounded-3 overflow-hidden">
+                                             <div class="ratio ratio-1x1 bg-dark rounded-3 overflow-hidden ratio-img">
                                                 <!-- <img src=".." class="object-fit-contain" alt=""> -->
                                              </div>
                                           </div><!-- end col -->
                                           <div class="col">
-                                             <div class="ratio ratio-1x1 bg-whitesmoke rounded-3 overflow-hidden">
+                                             <div class="ratio ratio-1x1 bg-dark rounded-3 overflow-hidden ratio-img">
                                                 <!-- <img src=".." class="object-fit-contain" alt=""> -->
                                              </div>
                                           </div><!-- end col -->
@@ -169,17 +169,17 @@ document.write(`
                                        </p>
                                        <div class="row row-cols-3 gx-4 menu-img">
                                           <div class="col">
-                                             <div class="ratio ratio-1x1 bg-whitesmoke rounded-3 overflow-hidden">
+                                             <div class="ratio ratio-1x1 bg-dark rounded-3 overflow-hidden ratio-img">
                                                 <!-- <img src=".." class="object-fit-contain" alt=""> -->
                                              </div>
                                           </div><!-- end col -->
                                           <div class="col">
-                                             <div class="ratio ratio-1x1 bg-whitesmoke rounded-3 overflow-hidden">
+                                             <div class="ratio ratio-1x1 bg-dark rounded-3 overflow-hidden ratio-img">
                                                 <!-- <img src=".." class="object-fit-contain" alt=""> -->
                                              </div>
                                           </div><!-- end col -->
                                           <div class="col">
-                                             <div class="ratio ratio-1x1 bg-whitesmoke rounded-3 overflow-hidden">
+                                             <div class="ratio ratio-1x1 bg-dark rounded-3 overflow-hidden ratio-img">
                                                 <!-- <img src=".." class="object-fit-contain" alt=""> -->
                                              </div>
                                           </div><!-- end col -->
@@ -194,17 +194,17 @@ document.write(`
                                        </p>
                                        <div class="row row-cols-3 gx-4 menu-img">
                                           <div class="col">
-                                             <div class="ratio ratio-1x1 bg-whitesmoke rounded-3 overflow-hidden">
+                                             <div class="ratio ratio-1x1 bg-dark rounded-3 overflow-hidden ratio-img">
                                                 <!-- <img src=".." class="object-fit-contain" alt=""> -->
                                              </div>
                                           </div><!-- end col -->
                                           <div class="col">
-                                             <div class="ratio ratio-1x1 bg-whitesmoke rounded-3 overflow-hidden">
+                                             <div class="ratio ratio-1x1 bg-dark rounded-3 overflow-hidden ratio-img">
                                                 <!-- <img src=".." class="object-fit-contain" alt=""> -->
                                              </div>
                                           </div><!-- end col -->
                                           <div class="col">
-                                             <div class="ratio ratio-1x1 bg-whitesmoke rounded-3 overflow-hidden">
+                                             <div class="ratio ratio-1x1 bg-dark rounded-3 overflow-hidden ratio-img">
                                                 <!-- <img src=".." class="object-fit-contain" alt=""> -->
                                              </div>
                                           </div><!-- end col -->
@@ -219,17 +219,17 @@ document.write(`
                                        </p>
                                        <div class="row row-cols-3 gx-4 menu-img">
                                           <div class="col">
-                                             <div class="ratio ratio-1x1 bg-whitesmoke rounded-3 overflow-hidden">
+                                             <div class="ratio ratio-1x1 bg-dark rounded-3 overflow-hidden ratio-img">
                                                 <!-- <img src=".." class="object-fit-contain" alt=""> -->
                                              </div>
                                           </div><!-- end col -->
                                           <div class="col">
-                                             <div class="ratio ratio-1x1 bg-whitesmoke rounded-3 overflow-hidden">
+                                             <div class="ratio ratio-1x1 bg-dark rounded-3 overflow-hidden ratio-img">
                                                 <!-- <img src=".." class="object-fit-contain" alt=""> -->
                                              </div>
                                           </div><!-- end col -->
                                           <div class="col">
-                                             <div class="ratio ratio-1x1 bg-whitesmoke rounded-3 overflow-hidden">
+                                             <div class="ratio ratio-1x1 bg-dark rounded-3 overflow-hidden ratio-img">
                                                 <!-- <img src=".." class="object-fit-contain" alt=""> -->
                                              </div>
                                           </div><!-- end col -->
@@ -244,17 +244,17 @@ document.write(`
                                        </p>
                                        <div class="row row-cols-3 gx-4 menu-img">
                                           <div class="col">
-                                             <div class="ratio ratio-1x1 bg-whitesmoke rounded-3 overflow-hidden">
+                                             <div class="ratio ratio-1x1 bg-dark rounded-3 overflow-hidden ratio-img">
                                                 <!-- <img src=".." class="object-fit-contain" alt=""> -->
                                              </div>
                                           </div><!-- end col -->
                                           <div class="col">
-                                             <div class="ratio ratio-1x1 bg-whitesmoke rounded-3 overflow-hidden">
+                                             <div class="ratio ratio-1x1 bg-dark rounded-3 overflow-hidden ratio-img">
                                                 <!-- <img src=".." class="object-fit-contain" alt=""> -->
                                              </div>
                                           </div><!-- end col -->
                                           <div class="col">
-                                             <div class="ratio ratio-1x1 bg-whitesmoke rounded-3 overflow-hidden">
+                                             <div class="ratio ratio-1x1 bg-dark rounded-3 overflow-hidden ratio-img">
                                                 <!-- <img src=".." class="object-fit-contain" alt=""> -->
                                              </div>
                                           </div><!-- end col -->
@@ -269,17 +269,17 @@ document.write(`
                                        </p>
                                        <div class="row row-cols-3 gx-4 menu-img">
                                           <div class="col">
-                                             <div class="ratio ratio-1x1 bg-whitesmoke rounded-3 overflow-hidden">
+                                             <div class="ratio ratio-1x1 bg-dark rounded-3 overflow-hidden ratio-img">
                                                 <!-- <img src=".." class="object-fit-contain" alt=""> -->
                                              </div>
                                           </div><!-- end col -->
                                           <div class="col">
-                                             <div class="ratio ratio-1x1 bg-whitesmoke rounded-3 overflow-hidden">
+                                             <div class="ratio ratio-1x1 bg-dark rounded-3 overflow-hidden ratio-img">
                                                 <!-- <img src=".." class="object-fit-contain" alt=""> -->
                                              </div>
                                           </div><!-- end col -->
                                           <div class="col">
-                                             <div class="ratio ratio-1x1 bg-whitesmoke rounded-3 overflow-hidden">
+                                             <div class="ratio ratio-1x1 bg-dark rounded-3 overflow-hidden ratio-img">
                                                 <!-- <img src=".." class="object-fit-contain" alt=""> -->
                                              </div>
                                           </div><!-- end col -->
@@ -330,17 +330,17 @@ document.write(`
                                        </p>
                                        <div class="row row-cols-3 gx-4 menu-img">
                                           <div class="col">
-                                             <div class="ratio ratio-1x1 bg-whitesmoke rounded-3 overflow-hidden">
+                                             <div class="ratio ratio-1x1 bg-dark rounded-3 overflow-hidden ratio-img">
                                                 <!-- <img src=".." class="object-fit-contain" alt=""> -->
                                              </div>
                                           </div><!-- end col -->
                                           <div class="col">
-                                             <div class="ratio ratio-1x1 bg-whitesmoke rounded-3 overflow-hidden">
+                                             <div class="ratio ratio-1x1 bg-dark rounded-3 overflow-hidden ratio-img">
                                                 <!-- <img src=".." class="object-fit-contain" alt=""> -->
                                              </div>
                                           </div><!-- end col -->
                                           <div class="col">
-                                             <div class="ratio ratio-1x1 bg-whitesmoke rounded-3 overflow-hidden">
+                                             <div class="ratio ratio-1x1 bg-dark rounded-3 overflow-hidden ratio-img">
                                                 <!-- <img src=".." class="object-fit-contain" alt=""> -->
                                              </div>
                                           </div><!-- end col -->
@@ -355,17 +355,17 @@ document.write(`
                                        </p>
                                        <div class="row row-cols-3 gx-4 menu-img">
                                           <div class="col">
-                                             <div class="ratio ratio-1x1 bg-whitesmoke rounded-3 overflow-hidden">
+                                             <div class="ratio ratio-1x1 bg-dark rounded-3 overflow-hidden ratio-img">
                                                 <!-- <img src=".." class="object-fit-contain" alt=""> -->
                                              </div>
                                           </div><!-- end col -->
                                           <div class="col">
-                                             <div class="ratio ratio-1x1 bg-whitesmoke rounded-3 overflow-hidden">
+                                             <div class="ratio ratio-1x1 bg-dark rounded-3 overflow-hidden ratio-img">
                                                 <!-- <img src=".." class="object-fit-contain" alt=""> -->
                                              </div>
                                           </div><!-- end col -->
                                           <div class="col">
-                                             <div class="ratio ratio-1x1 bg-whitesmoke rounded-3 overflow-hidden">
+                                             <div class="ratio ratio-1x1 bg-dark rounded-3 overflow-hidden ratio-img">
                                                 <!-- <img src=".." class="object-fit-contain" alt=""> -->
                                              </div>
                                           </div><!-- end col -->
@@ -380,17 +380,17 @@ document.write(`
                                        </p>
                                        <div class="row row-cols-3 gx-4 menu-img">
                                           <div class="col">
-                                             <div class="ratio ratio-1x1 bg-whitesmoke rounded-3 overflow-hidden">
+                                             <div class="ratio ratio-1x1 bg-dark rounded-3 overflow-hidden ratio-img">
                                                 <!-- <img src=".." class="object-fit-contain" alt=""> -->
                                              </div>
                                           </div><!-- end col -->
                                           <div class="col">
-                                             <div class="ratio ratio-1x1 bg-whitesmoke rounded-3 overflow-hidden">
+                                             <div class="ratio ratio-1x1 bg-dark rounded-3 overflow-hidden ratio-img">
                                                 <!-- <img src=".." class="object-fit-contain" alt=""> -->
                                              </div>
                                           </div><!-- end col -->
                                           <div class="col">
-                                             <div class="ratio ratio-1x1 bg-whitesmoke rounded-3 overflow-hidden">
+                                             <div class="ratio ratio-1x1 bg-dark rounded-3 overflow-hidden ratio-img">
                                                 <!-- <img src=".." class="object-fit-contain" alt=""> -->
                                              </div>
                                           </div><!-- end col -->
@@ -405,17 +405,17 @@ document.write(`
                                        </p>
                                        <div class="row row-cols-3 gx-4 menu-img">
                                           <div class="col">
-                                             <div class="ratio ratio-1x1 bg-whitesmoke rounded-3 overflow-hidden">
+                                             <div class="ratio ratio-1x1 bg-dark rounded-3 overflow-hidden ratio-img">
                                                 <!-- <img src=".." class="object-fit-contain" alt=""> -->
                                              </div>
                                           </div><!-- end col -->
                                           <div class="col">
-                                             <div class="ratio ratio-1x1 bg-whitesmoke rounded-3 overflow-hidden">
+                                             <div class="ratio ratio-1x1 bg-dark rounded-3 overflow-hidden ratio-img">
                                                 <!-- <img src=".." class="object-fit-contain" alt=""> -->
                                              </div>
                                           </div><!-- end col -->
                                           <div class="col">
-                                             <div class="ratio ratio-1x1 bg-whitesmoke rounded-3 overflow-hidden">
+                                             <div class="ratio ratio-1x1 bg-dark rounded-3 overflow-hidden ratio-img">
                                                 <!-- <img src=".." class="object-fit-contain" alt=""> -->
                                              </div>
                                           </div><!-- end col -->
@@ -430,17 +430,17 @@ document.write(`
                                        </p>
                                        <div class="row row-cols-3 gx-4 menu-img">
                                           <div class="col">
-                                             <div class="ratio ratio-1x1 bg-whitesmoke rounded-3 overflow-hidden">
+                                             <div class="ratio ratio-1x1 bg-dark rounded-3 overflow-hidden ratio-img">
                                                 <!-- <img src=".." class="object-fit-contain" alt=""> -->
                                              </div>
                                           </div><!-- end col -->
                                           <div class="col">
-                                             <div class="ratio ratio-1x1 bg-whitesmoke rounded-3 overflow-hidden">
+                                             <div class="ratio ratio-1x1 bg-dark rounded-3 overflow-hidden ratio-img">
                                                 <!-- <img src=".." class="object-fit-contain" alt=""> -->
                                              </div>
                                           </div><!-- end col -->
                                           <div class="col">
-                                             <div class="ratio ratio-1x1 bg-whitesmoke rounded-3 overflow-hidden">
+                                             <div class="ratio ratio-1x1 bg-dark rounded-3 overflow-hidden ratio-img">
                                                 <!-- <img src=".." class="object-fit-contain" alt=""> -->
                                              </div>
                                           </div><!-- end col -->
@@ -455,17 +455,17 @@ document.write(`
                                        </p>
                                        <div class="row row-cols-3 gx-4 menu-img">
                                           <div class="col">
-                                             <div class="ratio ratio-1x1 bg-whitesmoke rounded-3 overflow-hidden">
+                                             <div class="ratio ratio-1x1 bg-dark rounded-3 overflow-hidden ratio-img">
                                                 <!-- <img src=".." class="object-fit-contain" alt=""> -->
                                              </div>
                                           </div><!-- end col -->
                                           <div class="col">
-                                             <div class="ratio ratio-1x1 bg-whitesmoke rounded-3 overflow-hidden">
+                                             <div class="ratio ratio-1x1 bg-dark rounded-3 overflow-hidden ratio-img">
                                                 <!-- <img src=".." class="object-fit-contain" alt=""> -->
                                              </div>
                                           </div><!-- end col -->
                                           <div class="col">
-                                             <div class="ratio ratio-1x1 bg-whitesmoke rounded-3 overflow-hidden">
+                                             <div class="ratio ratio-1x1 bg-dark rounded-3 overflow-hidden ratio-img">
                                                 <!-- <img src=".." class="object-fit-contain" alt=""> -->
                                              </div>
                                           </div><!-- end col -->
@@ -484,16 +484,24 @@ document.write(`
 
                                  <ul class="navbar-nav nav-pills flex-column row-gap-3" role="tablist">
                                     <li class="nav-item">
-                                       <a data-bs-toggle="pill" href="#v-pills-product-machines-coffee" class="nav-link text-nowrap rounded-0 bg-transparent p-0 active">mesin kopi</a>
+                                       <a href="machines.html#machines-coffee">
+                                          <span data-bs-toggle="pill" data-bs-target="#v-pills-product-machines-coffee" class="nav-link text-nowrap rounded-0 bg-transparent p-0 active">mesin kopi</span>
+                                       </a>
                                     </li>
                                     <li class="nav-item">
-                                       <a data-bs-toggle="pill" href="#v-pills-product-machines-dispenser" class="nav-link text-nowrap rounded-0 bg-transparent p-0">dispenser minuman</a>
+                                       <a href="machines.html#machines-dispenser">
+                                          <span data-bs-toggle="pill" data-bs-target="#v-pills-product-machines-dispenser" class="nav-link text-nowrap rounded-0 bg-transparent p-0">dispenser minuman</span>
+                                       </a>
                                     </li>
                                     <li class="nav-item">
-                                       <a data-bs-toggle="pill" href="#v-pills-product-machines-acc" class="nav-link text-nowrap rounded-0 bg-transparent p-0">aksesori</a>
+                                       <a href="machines.html#machines-accessories">
+                                          <span data-bs-toggle="pill" data-bs-target="#v-pills-product-machines-acc" class="nav-link text-nowrap rounded-0 bg-transparent p-0">aksesori</span>
+                                       </a>
                                     </li>
                                     <li class="nav-item">
-                                       <a data-bs-toggle="pill" href="#v-pills-product-machines-guarante" class="nav-link text-nowrap rounded-0 bg-transparent p-0">pendaftaran garansi</a>
+                                       <a href="machines.html#machines-accessories.html">
+                                          <span data-bs-toggle="pill" data-bs-target="#v-pills-product-machines-guarante" class="nav-link text-nowrap rounded-0 bg-transparent p-0">pendaftaran garansi</span>
+                                       </a>
                                     </li>
                                  </ul>
 

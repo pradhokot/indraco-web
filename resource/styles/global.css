@@ -115,3 +115,14 @@ textarea::placeholder,
 
    --bs-form-check-bg-image: url() !important;
 }
+
+.lead {
+   font-size: 1.25em;
+}
+
+.ratio-img {
+   background-image: url(../assets/img/no-images.png);
+   background-repeat: no-repeat;
+   background-position: center;
+   background-size: 50% auto;
+}

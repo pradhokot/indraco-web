@@ -1,5 +1,5 @@
 document.write(`
-   <ul class="navbar-nav row-gap-3 mb-lg-2 column-gap-lg-3" id="nav-corner">
+   <ul class="navbar-nav row-gap-3 column-gap-lg-3" id="nav-corner">
       <li class="nav-item">
          <a class="nav-link p-0" href="#">
             <b class="fw-medium">INDRACO Store</b>
