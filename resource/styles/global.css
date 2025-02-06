@@ -27,6 +27,18 @@ body {
    text-align-last: center;
 }
 
+.img-default {
+   display: inline;
+}
+
+.img-invert {
+   display: none;
+}
+
+svg {
+   fill: currentColor;
+}
+
 h1,
 h2,
 h3,

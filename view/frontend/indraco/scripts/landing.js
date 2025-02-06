@@ -3,5 +3,5 @@
 //    $('.page-header').addClass('fixed-top');
 // })
 
-$('.page-content').addClass('pt-0');
 $('.page-header').addClass('page-header-invert');
+$('.page-content').addClass('pt-0');

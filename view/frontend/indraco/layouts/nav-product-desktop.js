@@ -1,11 +1,11 @@
 document.write(`
    <div class="nav-product-desktop d-none d-lg-block">
       <div class="dropdown">
-         <a href="product.html" class="nav-link px-0 text-nowrap">
+         <a href="product.html" class="nav-link nav-menu px-0 text-nowrap p-lg-0">
             produk
          </a>
          <div class="dropdown-menu rounded-0 border-0" id="dropdown-product">
-            <div class="container pt-2 pb-4">
+            <div class="container py-4">
                <h5 class="fs-4"><b class="fw-medium">Produk</b></h5>
                <hr class="opacity-50">
                <ul class="navbar-nav pt-2 column-gap-3 column-gap-xxl-4">

@@ -1,8 +1,8 @@
 document.write(`
    <div class="dropdown">
-      <a href="olshop.html" class="nav-link px-0 text-nowrap">toko resmi</a>
+      <a href="olshop.html" class="nav-link nav-menu px-0 text-nowrap p-lg-0">toko resmi</a>
       <div class="dropdown-menu rounded-0 border-0">
-         <div class="container-lg pt-lg-2 pb-lg-4">
+         <div class="container-lg py-4">
             <h5 class="fs-4 mb-0"><b class="fw-medium">Toko Resmi</b></h5>
             <hr class="opacity-50 my-3">
             <ul class="navbar-nav column-gap-lg-3 column-gap-xxl-4 pt-2">
